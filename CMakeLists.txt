@@ -29,12 +29,6 @@ add_library(wow_optimize SHARED
     src/lua_optimize.h
     src/combatlog_optimize.cpp
     src/combatlog_optimize.h
-    src/ui_cache.cpp
-    src/ui_cache.h
-    src/spell_cache.cpp
-    src/spell_cache.h
-    src/api_cache.cpp
-    src/api_cache.h
     src/render_optimize.cpp
     src/render_optimize.h
 )
